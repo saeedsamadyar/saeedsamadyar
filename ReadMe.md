@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on (QA) Software Test || Security and Penetration Test || Cloud Security || Python Backend
+- 🔭 I’m currently working on (QA) Software Test || Security and Penetration Test || DevTestOps || DevSecOps || Cloud Security || Python Backend || AI
 - 🌱 I’m currently learning Python Backend || Security and Penetration Test || Artificial Intelligence and Machine Learning
 - 🤔 I’m looking for VISA relocation Package or Sponsorship Visa to relocate to EU or United States
 - 💬 Ask me about technology and Software engineering
