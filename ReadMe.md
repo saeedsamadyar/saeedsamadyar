@@ -4,17 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
-<h3>
-    
-    
-    
-    
-    
-    
-    
+   
     
 - 🔭 I’m currently working on (QA) Software Test || Security and Penetration Test || DevTestOps || DevSecOps || Cloud Security || Python Backend || AI
 - 🌱 I’m currently learning Python Backend || Security and Penetration Test || Artificial Intelligence and Machine Learning
