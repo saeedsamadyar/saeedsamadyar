@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafcg_3bKsr6IX0P5EI0EVK6LkVwTvVurkuSmooMhV&amp;s" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Abstract Technology Background. Background 3d Grid Stock ..." data-noaft="1" style="width: 351px; height: 231.66px; margin: 0px;">
+
    Hello, everyone
     
 - 🔭 I’m currently working on (QA) Software Test || Security and Penetration Test || DevTestOps || DevSecOps || Cloud Security || Python Backend || AI
