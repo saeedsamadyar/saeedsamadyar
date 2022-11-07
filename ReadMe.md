@@ -1,10 +1,10 @@
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-   Hello, everyone.https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif!
+   Hello, everyone align="center">
     
 - 🔭 I’m currently working on (QA) Software Test || Security and Penetration Test || DevTestOps || DevSecOps || Cloud Security || Python Backend || AI
 - 🌱 I’m currently learning Python Backend || Security and Penetration Test || Artificial Intelligence and Machine Learning
