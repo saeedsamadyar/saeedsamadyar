@@ -112,6 +112,13 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
     </a>
 </p>
+            
+            
+- 🔭 I’m currently working on (QA) Software Test || Security and Penetration Test || DevTestOps || DevSecOps || Cloud Security || Python Backend || AI
+- 🌱 I’m currently learning Python Backend || Security and Penetration Test || Artificial Intelligence and Machine Learning
+- 🤔 I’m looking for VISA relocation Package or Sponsorship VISA to relocate to EU or United States
+- 💬 Ask me about technology and Software engineering
+- 📫 How to reach me: Am available on Linkedin for Job Offers and Ambassador of Products
 
 
 
