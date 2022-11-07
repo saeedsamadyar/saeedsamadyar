@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafcg_3bKsr6IX0P5EI0EVK6LkVwTvVurkuSmooMhV&amp;s" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Abstract Technology Background. Background 3d Grid Stock ..." data-noaft="1" style="width: 351px; height: 231.66px; margin: 0px;">
+<img src="https://emerj.com/wp-content/uploads/2018/04/how-to-cut-through-the-artificial-intelligence-hype-three-simple-rules-of-thumb.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="How to Cut Through the Artificial Intelligence Hype – Three Simple “Rules  of Thumb” | Emerj Artificial Intelligence Research" data-noaft="1" style="width: 433px; height: 173.656px; margin: 0px;">
 
    Hello, everyone
     
