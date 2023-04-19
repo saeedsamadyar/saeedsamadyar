@@ -9,7 +9,7 @@
     
 - 🔭 I’m currently working as a (QA) Software Tester || Security and Penetration Tester || DevTestOps || DevSecOps || Cloud Security engineer || Python Backend engineer || AI & ML
 - 🌱 I’m currently learning Python Backend || Security and Penetration Test || Artificial Intelligence and Machine Learning
-- 🤔 I’m seeking a VISA relocation Package or Sponsorship VISA to relocate to EU or United States
+- 🤔 I’m seeking a VISA Sponsorship to relocate
 - 💬 Ask me about technology and Software engineering
 - 📫 How to reach me: Am available on Linkedin for Job Offers and Ambassador of Products
     
